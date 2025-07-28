@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceedcode&label=Profile%20views&color=0e75b6&style=flat" alt="ceedcode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ceedcode" target="blank"><img src="https://img.shields.io/twitter/follow/ceedcode?logo=twitter&style=for-the-badge" alt="ceedcode" /></a> </p>
+<p align="left"> <a href="https://x.com/__Shubham__009_" target="blank"><img src="https://img.shields.io/twitter/follow/ceedcode?logo=twitter&style=for-the-badge" alt="__Shubham__009_" /></a> </p>
 
 - 🌱 I’m currently learning *Frontend frameworks*
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *awasthishubham5851@gmail.com*
 
-- 📄 Know about my experiences https://github.com/ceedcode/ceedcode/blob/97c106ec3c2750bc8453e1b65248313040fae9a0/Resume.pdf
+//- 📄 Know about my experiences https://github.com/ceedcode/ceedcode/blob/97c106ec3c2750bc8453e1b65248313040fae9a0/Resume.pdf
 - ⚡ Fun fact *I love diving into new experiences and meeting new people, always on the lookout for the next exciting adventure*
 
 <h3 align="left">Connect with me:</h3>
@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceedcode&show_icons=true&locale=en" alt="ceedcode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceedcode&" alt="ceedcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceedcode&" alt="" /></p>
