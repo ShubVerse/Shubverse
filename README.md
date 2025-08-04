@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceedcode&label=Profile%20views&color=0e75b6&style=flat" alt="ceedcode" /> </p>
 
-<p align="left"> <a href="https://x.com/__Shubham__009_" target="blank"><img src="https://img.shields.io/twitter/follow/ceedcode?logo=twitter&style=for-the-badge" alt="__Shubham__009_" /></a> </p>
+<p align="left"> <a href="https://x.com/__Shubham__009_" target="blank"><img src="https://img.shields.io/twitter/follow/ShubVerse?logo=twitter&style=for-the-badge" alt="__Shubham__009_" /></a> </p>
 
 - 🌱 I’m currently learning *Frontend frameworks*
 
@@ -19,15 +19,20 @@
 
 - 📫 How to reach me *awasthishubham5851@gmail.com*
 
-//- 📄 Know about my experiences https://github.com/ceedcode/ceedcode/blob/97c106ec3c2750bc8453e1b65248313040fae9a0/Resume.pdf
+//- 📄 Know about my experiences https://github.com/ShubVerse/your-repo/raw/main/resume-shubham-awasthi.pdf
 - ⚡ Fun fact *I love diving into new experiences and meeting new people, always on the lookout for the next exciting adventure*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ceedcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceedcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddharthsingh1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthsingh1008" height="30" width="40" /></a>
-<a href="https://instagram.com/ceedcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceedcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ceedcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceedcode" height="30" width="40" /></a>
+ <a href="https://x.com/__Shubham__009_" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                alt="ShubVerse" height="30" width="40" /></a>
+        <a href="https://www.linkedin.com/in/shubham-awasthi-45b033251/" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="Shubham" height="30" width="40" /></a>
+        <a href="https://www.instagram.com/awasthi_up65/" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                alt="ceedcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
